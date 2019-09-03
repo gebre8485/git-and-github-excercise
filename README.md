@@ -5,3 +5,8 @@
 *~~Strikethrugh text~~
 *__Strong text__ or **Strong text**
 *___Strong emphasized text___ or ***Strong emphasized text***
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
