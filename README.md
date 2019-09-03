@@ -24,4 +24,4 @@ Content Cell  | Content Cell
 
 ![image](https://image.shutterstock.com/z/stock-photo-butterfly-in-the-grass-on-a-meadow-at-night-in-the-shining-moonlight-on-nature-in-blue-and-purple-1111729556.jpg)
 
-License under the [MIT License](LICENCE)
+License under the [MIT License](LICENSE)
