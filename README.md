@@ -4,13 +4,13 @@
 
 *:+1: like it - and starting using it :shipit:
 
-*_Emphasized text_ or *Emphasized text*
+* *Emphasized text*
 
 *~~Strikethrugh text~~
 
-*__Strong text__ or **Strong text**
+* **Strong text**
 
-*___Strong emphasized text___ or ***Strong emphasized text***
+* ***Strong emphasized text***
 
 First Header  | Second Header
 ------------- | -------------
