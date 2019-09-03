@@ -1,0 +1,40 @@
+git tutorials
+
+. git init     to initialize a git directory in the directory I work on.
+. git config --global user.name 'Gebretsadik Alebel'
+. git config --global user.email 'gebre8485@gmail.com'
+.git add filename.extenssion.... to add a file to a staging area of a git account.
+.git status to check out the status of the git account.
+. git rm --cached file.extenssion    to remove a file.
+. git add .   adds all the files to a staging area.
+. git commit     commiting to the repository.
+.git checkout --filename  to discard changes in the folder.
+. git commit -m 'some commit message'     commit with a message.
+. touch .gitignore    creates an ignore file.
+. git branch branchName creates a new branch if there is no and changes the working branch.
+. git checkout myBranch changes the branch to myBranch. (when ever you change branches, you need to commit the previous branch.).
+. git merge myBranch merges the 2 branches and saves to master branch.
+. git remote add origion url.git
+	example git remote add origin https://github.com/gebre8485/angularExercise.git
+. git push -u origin master
+
+. git clone url example: git clone https://github.com/gebre8485/angularExercise.git clones to local git.
+
+. rmdir dirname ---> used to remove a directory.
+. git log ----> gives information about the commited history of the repository.	
+. git log --oneline -----> only messages of a commited history.
+. git checkout commitId is used to check out the sate of the particular commit history.
+. git checkout master ------> to get back to the current commit.
+. git revert commitId ------> go to a particular commit history and undo commited things in it.
+. git reset commitId -------> remove any commit latter than the particular commit history and float the changed things in the working 		directory.
+. git reset --hard ---------> remove andy commit latter than the particular commit history and working directory.
+
+		CREATING BRANCHES
+ 
+. git branch branchName ------> creating a new branch.
+. git branch -a ---------> see all branches in the repository (the * means that um on this branch).
+. git checkout branchName --------> to switch to the branchName.
+. git branch -d branchName -------> to delete the branch after merged to the master branch.
+. git branch -D branchName -------> to delete the branch before merged to the master branch.
+. git checkout -b branchName -----> to create the branch and switch to it at the same time.
+
