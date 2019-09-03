@@ -21,3 +21,5 @@ Content Cell  | Content Cell
     1. A nested numbered list
     2. Which is numbered
 2. Which is numbered
+
+![GitHub Logo](/images/logo.png)
